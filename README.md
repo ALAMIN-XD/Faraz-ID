@@ -3,7 +3,7 @@
 - ![Alt text](https://github.com/atalamin/atalamin/raw/main/Developer.gif)
 
 <h1 align="center">★MD. ALAMIN ISLAM★ <img src="https://github.com/atalamin/atalamin/blob/main/mituls code.gif"
-<a href="https://github.com/atalamin"><img width=550 src="https://github-profile-trophy.vercel.app/?username=at-alamin&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/atalamin"><img width=550 src="https://github-profile-trophy.vercel.app/?username=atalamin&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 ## ★ Github data ★
 >
@@ -36,4 +36,4 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-👁️%20My%20Website-000)](https://github.com/FARAZ-ID
+[![](https://img.shields.io/badge/-👁️%20My%20Website-000)](https://github.com/atalamin
